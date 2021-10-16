@@ -1,0 +1,11 @@
+.container {
+  display: flex;
+  position: relative;
+}
+.image {
+  width: 42px;
+  height: 29px;
+  object-fit: cover;
+  border-color: #545252;
+  border-width: 1px;
+}

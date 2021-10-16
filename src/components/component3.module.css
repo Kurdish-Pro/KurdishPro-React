@@ -1,0 +1,14 @@
+.container {
+  display: flex;
+  position: relative;
+}
+.Burger-menu {
+  width: 24px;
+  height: 24px;
+  display: none;
+}
+@media(max-width: 767px) {
+  .Burger-menu {
+    display: flex;
+  }
+}
